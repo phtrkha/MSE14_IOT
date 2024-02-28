@@ -5,8 +5,8 @@ import time
 from simple_ai import *
 
 AIO_FEED_ID = ['nutnhan1', 'nutnhan2']
-AIO_USERNAME = "kha23mse23099"
-AIO_KEY = "aio_LaFg61KV8snZrpKOI2EDDSU7SsrW"
+AIO_USERNAME = ""
+AIO_KEY = ""
 
 #new
 def connected(client):
