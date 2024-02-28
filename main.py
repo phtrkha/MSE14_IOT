@@ -8,6 +8,7 @@ AIO_FEED_ID = ['nutnhan1', 'nutnhan2']
 AIO_USERNAME = "kha23mse23099"
 AIO_KEY = "aio_LaFg61KV8snZrpKOI2EDDSU7SsrW"
 
+#new
 def connected(client):
     print("Ket noi thanh cong ...")
     for feed in AIO_FEED_ID:
